@@ -1,0 +1,27 @@
+body {
+    background-image: url("../images/background-19861_1920.jpg");
+}
+.card-body {
+    background-color: lightgreen;
+    margin-bottom: 50px;
+}
+#topSpace {
+    height: 180px
+}
+h1 {
+    color: blue;
+}
+.btn {
+    height: 100px;
+    width: 300px;
+    font-size: 36px;
+    color: black;
+    background-color:lightblue;
+    border-color: blue;
+}
+#timer, #questionOne, #questionTwo, #questionThree, #questionFour, #questionFive, #finish {
+    font-size: 24px;
+}
+#totalCorrect, #totalIncorrect, #totalUnanswered {
+    font-size: 20px;
+}
